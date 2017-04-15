@@ -1,0 +1,2464 @@
+fileFormatVersion: 2
+guid: c1f875ba596aea44b8dd162e41770112
+timeCreated: 1481317008
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: miniufo_0
+    21300002: miniufo_1
+    21300004: miniufo_2
+    21300006: miniufo_3
+    21300008: miniufo_4
+    21300010: miniufo_5
+    21300012: miniufo_6
+    21300014: miniufo_7
+    21300016: miniufo_8
+    21300018: miniufo_9
+    21300020: miniufo_10
+    21300022: miniufo_11
+    21300024: miniufo_12
+    21300026: miniufo_13
+    21300028: miniufo_14
+    21300030: miniufo_15
+    21300032: miniufo_16
+    21300034: miniufo_17
+    21300036: miniufo_18
+    21300038: miniufo_19
+    21300040: miniufo_20
+    21300042: miniufo_21
+    21300044: miniufo_22
+    21300046: miniufo_23
+    21300048: miniufo_24
+    21300050: miniufo_25
+    21300052: miniufo_26
+    21300054: miniufo_27
+    21300056: miniufo_28
+    21300058: miniufo_29
+    21300060: miniufo_30
+    21300062: miniufo_31
+    21300064: miniufo_36
+    21300066: miniufo_38
+    21300068: miniufo_44
+    21300070: miniufo_45
+    21300072: miniufo_46
+    21300074: miniufo_47
+    21300076: miniufo_53
+    21300078: miniufo_55
+    21300080: miniufo_56
+    21300082: miniufo_57
+    21300084: miniufo_58
+    21300086: miniufo_59
+    21300088: miniufo_61
+    21300090: miniufo_62
+    21300092: miniufo_63
+    21300094: miniufo_64
+    21300096: miniufo_65
+    21300098: miniufo_67
+    21300100: miniufo_68
+    21300102: miniufo_69
+    21300104: miniufo_70
+    21300106: miniufo_71
+    21300108: miniufo_72
+    21300110: miniufo_73
+    21300112: miniufo_74
+    21300114: miniufo_75
+    21300116: miniufo_76
+    21300118: miniufo_77
+    21300120: miniufo_78
+    21300122: miniufo_79
+    21300124: miniufo_80
+    21300126: miniufo_81
+    21300128: miniufo_82
+    21300130: miniufo_83
+    21300132: miniufo_84
+    21300134: miniufo_85
+    21300136: miniufo_86
+    21300138: miniufo_87
+    21300140: miniufo_88
+    21300142: miniufo_89
+    21300144: miniufo_90
+    21300146: miniufo_91
+    21300148: miniufo_92
+    21300150: miniufo_94
+    21300152: miniufo_96
+    21300154: miniufo_101
+    21300156: miniufo_102
+    21300158: miniufo_103
+    21300160: miniufo_104
+    21300162: miniufo_105
+    21300164: miniufo_106
+    21300166: miniufo_107
+    21300168: miniufo_108
+    21300170: miniufo_109
+    21300172: miniufo_110
+    21300174: miniufo_111
+    21300176: miniufo_112
+    21300178: miniufo_113
+    21300180: miniufo_114
+    21300182: miniufo_115
+    21300184: miniufo_116
+    21300186: miniufo_117
+    21300188: miniufo_118
+    21300190: miniufo_119
+    21300192: miniufo_120
+    21300194: miniufo_121
+    21300196: miniufo_122
+    21300198: miniufo_123
+    21300200: miniufo_124
+    21300202: miniufo_125
+    21300204: miniufo_126
+    21300206: miniufo_127
+    21300208: miniufo_128
+    21300210: miniufo_129
+    21300212: miniufo_130
+    21300214: miniufo_131
+    21300216: miniufo_132
+    21300218: miniufo_133
+    21300220: miniufo_134
+    21300222: miniufo_135
+    21300224: miniufo_136
+    21300226: miniufo_137
+    21300228: miniufo_138
+    21300230: miniufo_139
+    21300232: miniufo_140
+    21300234: miniufo_141
+    21300236: miniufo_142
+    21300238: miniufo_143
+    21300240: miniufo_144
+    21300242: miniufo_145
+    21300244: miniufo_146
+    21300246: miniufo_147
+    21300248: miniufo_148
+    21300250: miniufo_149
+    21300252: miniufo_150
+    21300254: miniufo_151
+    21300256: miniufo_152
+    21300258: miniufo_153
+    21300260: miniufo_154
+    21300262: miniufo_155
+    21300264: miniufo_156
+    21300266: miniufo_157
+    21300268: miniufo_158
+    21300270: miniufo_159
+    21300272: miniufo_160
+    21300274: miniufo_161
+    21300276: miniufo_162
+    21300278: miniufo_163
+    21300280: miniufo_164
+    21300282: miniufo_165
+    21300284: miniufo_166
+    21300286: miniufo_167
+    21300288: miniufo_168
+    21300290: miniufo_169
+    21300292: miniufo_170
+    21300294: miniufo_171
+    21300296: miniufo_172
+    21300298: miniufo_173
+    21300300: miniufo_174
+    21300302: miniufo_175
+    21300304: miniufo_176
+    21300306: miniufo_177
+    21300308: miniufo_178
+    21300310: miniufo_179
+    21300312: miniufo_180
+    21300314: miniufo_181
+    21300316: miniufo_182
+    21300318: miniufo_183
+    21300320: miniufo_184
+    21300322: miniufo_185
+    21300324: miniufo_186
+    21300326: miniufo_187
+    21300328: miniufo_188
+    21300330: miniufo_189
+    21300332: miniufo_190
+    21300334: miniufo_191
+    21300336: miniufo_32
+    21300338: miniufo_33
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: miniufo_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 500
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 500
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 501
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 501
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_4
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 500
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_5
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 501
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_6
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 501
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_7
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 500
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_8
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 501
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_9
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 501
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_10
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 500
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_11
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 500
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 464
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 464
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_14
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 464
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_15
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 464
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_16
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 464
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_17
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 464
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_18
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 464
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_19
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 464
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_20
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 464
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_21
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 464
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_22
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 464
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_23
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 464
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_24
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 427
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 427
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_26
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 427
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_27
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 427
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_28
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 427
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_29
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 427
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_30
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 427
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_31
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 427
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_36
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 375
+        width: 54
+        height: 45
+      alignment: 9
+      pivot: {x: 0.46686637, y: 0.4337321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_38
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 375
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 381
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_45
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 380
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_46
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 377
+        width: 45
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5662677, y: 0.40511668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_47
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 376
+        width: 43
+        height: 45
+      alignment: 9
+      pivot: {x: 0.54161036, y: 0.4072252}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_53
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 376
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_55
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 377
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_56
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 380
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_57
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 381
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_58
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 320
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_59
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 324
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_61
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 326
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_62
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 324
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_63
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 324
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_64
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 326
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_65
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 324
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_67
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 320
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_68
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 267
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_69
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 269
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_70
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 270
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_71
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 271
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_72
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 271
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_73
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 271
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_74
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 271
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_75
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 271
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_76
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 271
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_77
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 270
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_78
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 269
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_79
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 267
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_80
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 215
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_81
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 214
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_82
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 216
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_83
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 215
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_84
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 219
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_85
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 222
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_86
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 222
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_87
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 219
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_88
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 215
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_89
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 216
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_90
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 214
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_91
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 215
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_92
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 172
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_94
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 172
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_96
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 176
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_101
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 176
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_102
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 141
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_103
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 140
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_104
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 153
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_105
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 162
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_106
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 162
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_107
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 146
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_108
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 144
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_109
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 146
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_110
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 146
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_111
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 148
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_112
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 149
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_113
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 150
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_114
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 145
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_115
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 144
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_116
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 140
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_117
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 149
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_118
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 144
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_119
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 150
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_120
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 144
+        width: 4
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_121
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 150
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_122
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 139
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_123
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 139
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_124
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 96
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_125
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 96
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_126
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 95
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_127
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 103
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_128
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 103
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_129
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 103
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_130
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 101
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_131
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 102
+        width: 5
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_132
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 103
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_133
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 103
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_134
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 103
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_135
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 95
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_136
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 96
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_137
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 96
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_138
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 78
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_139
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 78
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_140
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 76
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_141
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 73
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_142
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 72
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_143
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 73
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_144
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 73
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_145
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 73
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_146
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 72
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_147
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 73
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_148
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 73
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_149
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 78
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_150
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 78
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_151
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 78
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_152
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 65
+        width: 27
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_153
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 65
+        width: 27
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_154
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 65
+        width: 27
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_155
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 54
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_156
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 54
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_157
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 54
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_158
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 54
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_159
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 54
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_160
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 54
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_161
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 54
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_162
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 65
+        width: 27
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_163
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 64
+        width: 28
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_164
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 65
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_165
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 41
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_166
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 42
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_167
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 42
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_168
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 39
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_169
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 39
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_170
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_171
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 39
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_172
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_173
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 41
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_174
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 37
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_175
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 42
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_176
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 42
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_177
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 40
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_178
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 16
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_179
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 16
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_180
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 16
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_181
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 4
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_182
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 4
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_183
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 4
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_184
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 4
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_185
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 4
+        width: 5
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_186
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 4
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_187
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 4
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_188
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 4
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_189
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 16
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_190
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 16
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_191
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 16
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_32
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 175
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: miniufo_33
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 177
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
